@@ -2,7 +2,7 @@
 김버그의 HTML&CSS는 재밌다 final project를 bootstrap도움없이 구현해보기
 
 
-!수정해야할점
+💥수정해야할점!
 폰트크기에 반응하지 않는다는 점(em, rem 사용해보기)
 
 
